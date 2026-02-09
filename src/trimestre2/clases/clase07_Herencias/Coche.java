@@ -18,7 +18,7 @@ public class Coche {
 		this.velocidadMax = velocidadMax;
 	}
 
-
+//bvdnmnfdm
 	public void mostrarInfo() {
 		System.out.println("Info general del coche \n" 
 				+ "\t NumRuedas: " + this.numRuedas + "\n"
