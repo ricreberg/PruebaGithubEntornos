@@ -18,7 +18,6 @@ public class Coche {
 		this.velocidadMax = velocidadMax;
 	}
 
-//bvdnmnfdm
 	public void mostrarInfo() {
 		System.out.println("Info general del coche \n" 
 				+ "\t NumRuedas: " + this.numRuedas + "\n"
@@ -27,7 +26,6 @@ public class Coche {
 				+ "\t NumVentanas: " + this.numVentanas + "\n"
 				+ "\t NumAsientos: " + this.numAsientos + "\n"
 				+ "\t velocidadMax: " + this.velocidadMax + "\n");
-		//nu  evo cambio
 	} 
 
 
