@@ -27,8 +27,8 @@ public class Coche {
 				+ "\t NumVentanas: " + this.numVentanas + "\n"
 				+ "\t NumAsientos: " + this.numAsientos + "\n"
 				+ "\t velocidadMax: " + this.velocidadMax + "\n");
-		//nuevo cambio
-	}
+		//nu  evo cambio
+	} 
 
 
 
