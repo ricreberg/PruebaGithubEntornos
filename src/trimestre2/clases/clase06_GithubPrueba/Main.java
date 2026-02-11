@@ -6,4 +6,10 @@ public class Main {
 	// prueba 3
 	//prueba 4
 	//pruebaaa
+	
+	
+	// Conflicto 2
+	public void arrancar() {
+		System.out.println("brum brum!");
+	}
 }
